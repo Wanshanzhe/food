@@ -1,0 +1,42 @@
+{
+  "code": 0
+  ,"msg": ""
+  ,"count": 3000000
+  ,"data": [{
+     "id": "1582865737179321570"
+    ,"name": "黄瓜"
+    ,"productPrice": "1"
+    ,"productStock": 100
+    ,"productDescription": "它的叶片很细长，色泽呈现淡绿色"
+    ,"productIcon": ""
+    ,"productVedio": ""
+    ,"productStatus": 0
+    ,"categoryType": 2
+    ,"createTime": "2020-02-28 12:55:36"
+    ,"updateTime": "2020-05-06 20:32:34"
+  }, {
+     "id": "1582865737179321571"
+    ,"name": "白菜"
+    ,"productPrice": "2"
+    ,"productStock": 100
+    ,"productDescription": "它的叶片很细长，色泽呈现淡绿色"
+    ,"productIcon": ""
+    ,"productVedio": ""
+    ,"productStatus": 0
+    ,"categoryType": 3
+    ,"createTime": "2020-02-28 12:55:36"
+    ,"updateTime": "2020-05-06 20:32:34"
+  }, {
+     "id": "1582865737179321570"
+    ,"name": "榴莲"
+    ,"productPrice": "4"
+    ,"productStock": 1000
+    ,"productDescription": "它的叶片很细长，色泽呈现淡绿色"
+    ,"productIcon": ""
+    ,"productVedio": ""
+    ,"productStatus": 0
+    ,"categoryType": 1
+    ,"createTime": "2020-02-28 12:55:36"
+    ,"updateTime": "2020-05-06 20:32:34"
+  }]
+}  
